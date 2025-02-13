@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function () {
-    const startDate = new Date("2025-02-13T21:00:00");
+    const startDate = new Date("2025-02-13T22:00:00");
     const interval = (1 * 60 * 60 * 1000) + (2 * 60 * 1000) + (30 * 1000);
 
     let nextDate = calculateNextDate();
