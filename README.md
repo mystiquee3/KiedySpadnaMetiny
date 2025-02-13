@@ -1,6 +1,6 @@
 # Kiedy Spadnie Metin
 
-[**Otwórz stronę aplikacji**](https://mn1am1.github.io/KiedySpadnieMetin/)
+[**Otwórz stronę aplikacji**](https://mystiquee3.github.io/KiedySpadnaMetiny/)
 
 ## Opis
 
@@ -30,7 +30,7 @@ Strona "Kiedy Spadnie Metin" umożliwia użytkownikom śledzenie czasu do kolejn
 
 ## Link do strony
 
-Aby zobaczyć aplikację w działaniu, kliknij [tutaj](https://mn1am1.github.io/KiedySpadnieMetin/).
+Aby zobaczyć aplikację w działaniu, kliknij [tutaj](https://mystiquee3.github.io/KiedySpadnaMetiny/).
 
 ## Jak używać
 
